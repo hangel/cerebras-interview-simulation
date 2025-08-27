@@ -1,5 +1,5 @@
-Simulation Web App
-===================
+Simulation Web App COBOLpro® CLIP
+=================================
 
 A platform for simulating user interviews and synthesizing insights, powered by Cerebras. The app generates personas, conducts LLM‑driven interviews, and summarizes key themes, observations, and takeaways with an interactive dashboard.
 
